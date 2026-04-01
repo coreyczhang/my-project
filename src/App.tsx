@@ -24,7 +24,7 @@ function App() {
           </button>
           <p> Don&apos;t forgot to install Eslint and Prettier in Your Vscode.</p>
           <p>
-            Mess up the code in <code>App.tsx </code> and save the file.
+            Mess up the code in <code>App.tsx </code> and save the file. Corey Zhang
           </p>
           <p>
             <a
